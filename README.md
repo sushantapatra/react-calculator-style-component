@@ -1,4 +1,4 @@
-#Calcuulator application using React & Styled Component
+### Calcuulator application using React & Styled Component
 
 ### `npx create-react-app react_calculator`
 
